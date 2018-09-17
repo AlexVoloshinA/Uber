@@ -1,0 +1,27 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexVoloshinA/Uber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexVoloshinA/Uber/issues"
+  },
+  "homepage": "https://github.com/AlexVoloshinA/Uber#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.2.15",
+    "supertest": "^3.3.0"
+  }
+}
